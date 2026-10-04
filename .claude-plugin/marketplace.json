@@ -1,0 +1,18 @@
+{
+  "name": "sp-skills",
+  "owner": { "name": "Serge Petit" },
+  "metadata": {
+    "description": "Agent skills by Serge Petit, packaged for Claude Code and GitHub Copilot CLI.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "organize-docs",
+      "source": "./plugins/organize-docs",
+      "description": "A documentation convention for project Markdown: YAML frontmatter with controlled type/status vocabularies, an index.md per docs folder, and a DOC_CONVENTIONS.md copied into the project.",
+      "version": "3.0.0",
+      "license": "Apache-2.0",
+      "keywords": ["documentation", "markdown", "frontmatter", "conventions"]
+    }
+  ]
+}

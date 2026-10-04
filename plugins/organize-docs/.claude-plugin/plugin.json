@@ -1,0 +1,8 @@
+{
+  "name": "organize-docs",
+  "description": "A documentation convention for project Markdown: YAML frontmatter with controlled type/status vocabularies, an index.md per docs folder, and a DOC_CONVENTIONS.md copied into the project.",
+  "version": "3.0.0",
+  "author": { "name": "Serge Petit" },
+  "license": "Apache-2.0",
+  "keywords": ["documentation", "markdown", "frontmatter", "conventions"]
+}
